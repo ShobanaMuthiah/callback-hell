@@ -1,0 +1,17 @@
+.dis{
+    height: 50vh !important;
+    width: 40% !important;
+    background-color: brown;
+    color:chartreuse !important;
+    justify-content: center;
+    display:flex;
+    align-items: center;
+    font-size: xx-large;
+    margin-left: 30%;
+    margin-top:6%
+}
+.head
+{
+    text-align: center;
+    color:darkblue
+}
